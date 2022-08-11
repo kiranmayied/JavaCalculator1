@@ -1,2 +1,1 @@
-# JavaCalculator1
-this is testing purpose
+https://github.com/Akiranred/JavaCalculator.git
